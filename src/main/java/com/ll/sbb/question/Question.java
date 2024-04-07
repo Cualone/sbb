@@ -1,9 +1,9 @@
-package com.ll.sbb;
+package com.ll.sbb.question;
 
+import com.ll.sbb.answer.Answer;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-import org.hibernate.engine.internal.CascadePoint;
 
 import java.time.LocalDateTime;
 import java.util.List;
